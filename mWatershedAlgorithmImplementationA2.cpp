@@ -128,10 +128,6 @@ bool mWatershedAlgorithmImplementationA2::ProcessImage(const rrlib::coviroa::tIm
 
 }
 
-
-
-
-
 bool mWatershedAlgorithmImplementationA2::ProcessImage(const cv::Mat& in_distance_transform_threshold_image, const cv::Mat& in_sharpened_image, cv::Mat& out_markers_image, cv::Mat& out_watershed_image)
 {
   cv::Mat input_image = in_distance_transform_threshold_image;

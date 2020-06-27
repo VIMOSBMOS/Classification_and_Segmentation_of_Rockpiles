@@ -49,7 +49,7 @@ namespace Algorithm2
 //----------------------------------------------------------------------
 //! SHORT_DESCRIPTION
 /*!
- * Implemenatation of the watershed algorithm
+ * Implementation of the watershed algorithm
  */
 class mWatershedAlgorithmImplementationA2 : public structure::tModule
 {
